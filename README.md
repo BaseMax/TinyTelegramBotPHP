@@ -1,6 +1,16 @@
+# TinyTelegramBotPHP
+
 # PHP Tiny Telegram Bot
 
 Small telegram bot library using PHP.
+
+It's used in some personal projects... (In development)
+
+You can add more features to this by send PR...
+
+## Projects
+
+- https://github.com/BaseMax/telegram-github-trend
 
 ---------
 
