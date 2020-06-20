@@ -12,6 +12,7 @@ You can add more features to this by send PR...
 
 - https://github.com/BaseMax/telegram-weather-bot
 - https://github.com/BaseMax/telegram-github-trend
+- And more...
 
 ---------
 
